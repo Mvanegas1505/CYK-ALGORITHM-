@@ -200,4 +200,10 @@ python main.py
 
 [1] Kozen, Dexter C. Automata and Computability. Springer, Third printing, 1997 [2012]. Undergraduate Texts in Computer Science. https://doi.org/10.1007/978-1-4612-1844-9.
 
+## Developers 
+[Pablo Cabrejos Múnera]
+[Martin Vanegas Ospina]
+
+Thank you for your hard work!!!
+
 
