@@ -1,4 +1,4 @@
-# CKY Algorithm implementation
+# CYK Algorithm implementation
 
 ## Project Overview
 
@@ -29,7 +29,7 @@ A context-free grammar (CFG) is a formal grammar that defines a set of strings (
 
 This grammar generates the language {ab}.
 
-## Assignment: CKY Algorithm Implementation
+## Assignment: CYK Algorithm Implementation
 
 This assignment implements the CKY algorithm, as presented in [Kozen, Lecture 27] (1).
 
